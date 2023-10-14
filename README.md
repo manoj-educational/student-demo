@@ -1,4 +1,4 @@
 # student-demo
 This is my first Git Repository.
 <br>
-Author - Manoj Chaudhary
+Author - Manoj Chaudhary(Kushmi)
